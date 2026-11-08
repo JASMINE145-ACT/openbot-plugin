@@ -1,0 +1,6 @@
+{
+  "name": "openbot-plugins",
+  "plugins": [
+    { "name": "wa-self-reply", "path": "plugins/wa-self-reply", "tags": ["whatsapp", "auto-reply"] }
+  ]
+}
